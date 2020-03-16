@@ -5,6 +5,10 @@ public class AppStarter {
         if(true) {
 
         }
+        
+        if(false) {
+
+        }
         return;
     }
 }
